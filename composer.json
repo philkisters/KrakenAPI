@@ -2,7 +2,7 @@
     "name": "philoest/krakenapi",
     "description": "A simple implementation and extension to the Kraken PHP API",
     "license": "MIT",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "keywords": ["kraken", "api", "crypto"],
     "authors": [
         {
